@@ -1,4 +1,3 @@
-
 import { Volume2, CheckCircle, MusicIcon } from "lucide-react";
 import { SectionHeader } from "@/components/SectionHeader";
 import { Button } from "@/components/ui/button";
@@ -43,7 +42,7 @@ const services = [
       "Streaming-ready masters",
       "Vinyl and CD preparation"
     ],
-    sample: "https://on.soundcloud.com/VSSj44iMZ2uoDiK99"
+    sample: "/remix.mp3"
   }
 ];
 
