@@ -22,7 +22,7 @@ export function AboutSection() {
           <div>
             <h3 className="text-2xl font-bold mb-4">The Journey</h3>
             <p className="text-muted-foreground mb-4">
-              Praveen Soulrich is an accomplished Singer, DJ, Songwriter, and Music Producer with a career spanning over 15 years in the music industry. His journey began with the LBG band, where his unique vocal style and stage presence caught the attention of audiences across Asia.
+              Praveen Soulrich is an accomplished Singer, DJ, Songwriter, and Music Producer with a career spanning over 15 years in the music industry. His journey began with the original rock band, Little Babooshka's Grind, where his unique vocal style and stage presence caught the attention of audiences across Asia.
             </p>
             <p className="text-muted-foreground">
               After winning the prestigious MTV Asia Award, Praveen embarked on a solo career that has taken him to international stages across India, Malaysia, and beyond. His music blends electronic beats with soulful vocals, creating a signature sound that bridges cultural boundaries.
@@ -38,7 +38,7 @@ export function AboutSection() {
             
             <div className="flex flex-col items-center justify-center p-4 rounded-lg bg-card">
               <Users className="h-8 w-8 text-primary mb-2" />
-              <h4 className="font-bold">LBG Band</h4>
+              <h4 className="font-bold">Little Babooshka's Grind</h4>
               <p className="text-sm text-center text-muted-foreground">Founding member and lead vocalist</p>
             </div>
             
