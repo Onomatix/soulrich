@@ -42,7 +42,7 @@ const services = [
       "Streaming-ready masters",
       "Vinyl and CD preparation"
     ],
-    sample: "/remix.mp3"
+    sample: "/images/remix.mp3"
   }
 ];
 
