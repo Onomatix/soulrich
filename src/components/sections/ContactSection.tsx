@@ -39,13 +39,13 @@ export function ContactSection() {
           <div>
             <h3 className="text-xl font-semibold mb-4">Follow Me</h3>
             <div className="flex gap-6 text-white mt-2">
-              <a href="https://instagram.com" target="_blank" rel="noreferrer">
+              <a href="https://www.instagram.com/soulri.ch/" target="_blank" rel="noreferrer">
                 <Instagram className="w-6 h-6 hover:text-purple-400 transition" />
               </a>
-              <a href="https://facebook.com" target="_blank" rel="noreferrer">
+              <a href="https://www.facebook.com/Praveen.Soulrich/" target="_blank" rel="noreferrer">
                 <Facebook className="w-6 h-6 hover:text-purple-400 transition" />
               </a>
-              <a href="https://youtube.com" target="_blank" rel="noreferrer">
+              <a href="https://www.youtube.com/@soulrichdglab" target="_blank" rel="noreferrer">
                 <Youtube className="w-6 h-6 hover:text-purple-400 transition" />
               </a>
               {/* <a href="https://twitter.com" target="_blank" rel="noreferrer">

@@ -65,7 +65,11 @@ export function Footer() {
             © {new Date().getFullYear()} Soulrich Records. All rights reserved.
           </div>
           
-          <div className="flex space-x-6">
+          <div className="flex items-center space-x-6">
+            <div className="flex items-center space-x-2">
+              <span className="text-sm text-muted-foreground">POWERED BY</span>
+              <img src="/images/qc.png" alt="QC Logo" className="h-14" />
+            </div>
             <a href="/privacy" className="text-sm text-muted-foreground hover:text-primary transition-colors">
               Privacy Policy
             </a>
